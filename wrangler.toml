@@ -19,6 +19,7 @@ preview_id = "3fea0ec181ce4317a1ceb45e052dd5aa"
 [vars]
 # 这里可以保留 R2_PUBLIC_URL，但因为没有 R2，实际上不会用到
 # 或者直接删除 R2 相关的环境变量
+R2_PUBLIC_URL = "https://r2.xjc.ccwu.cc" 
 TWIKOO_SECRET = "phantomxjc"
 
 [dev]
